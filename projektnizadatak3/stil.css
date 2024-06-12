@@ -1,0 +1,53 @@
+
+p {
+	color: gray;
+	font-family: cinstantia, "Bookman Old Style", Georgia, "serif";
+	font-size: 20px;
+	line-height: 22px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 22px;
+}
+h2{
+	font-family:cinstantia, "Bookman Old Style", Georgia, "serif";
+	color: gray;
+	
+}
+
+
+
+span {color: rgb(255, 0, 255);}
+body{
+	background-image: url("slike1/pozadina1.jpg");
+}
+ 
+ a:link {
+	 display:inline;
+	 color:gray;
+	 background-color:antiquewhite;
+	 padding:5px;
+	 line-height:20px;
+	 border:1px
+
+
+ }
+ a:hover{
+	 background-color:gray;
+ }
+ 
+ul{
+	list-style-type: none;
+	margin: 5;
+	padding: 3;
+	overflow: hidden;
+li{
+	float: left;
+}
+li a{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 20;
+	text-decoration: none;
+}
+
